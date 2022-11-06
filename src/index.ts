@@ -1,3 +1,3 @@
-import logger from './logger.js';
+console.log('hello world');
 
-logger.info('hello world');
+export {};

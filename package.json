@@ -10,9 +10,7 @@
     "ts": "ts-node-esm src/index.ts",
     "lint": "eslint --fix './src/**/*.{js,ts}'"
   },
-  "dependencies": {
-    "pino": "^8.7.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/node": "^18.11.9",
     "@typescript-eslint/eslint-plugin": "^5.42.0",

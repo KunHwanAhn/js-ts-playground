@@ -13,6 +13,7 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
+    'no-console': 'off',
     'max-len': ['error', { code: 150 }],
     'import/extensions': ['error', {
       js: 'always',
@@ -31,6 +32,7 @@ module.exports = {
         'airbnb-typescript/base',
       ],
       rules: {
+        'no-console': 'off',
         'max-len': ['error', { code: 150 }],
         'import/extensions': ['error', {
           js: 'always',
