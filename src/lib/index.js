@@ -1,4 +1,5 @@
 export * from './공배수공약수.js';
+export * from './조합.js';
 
 /**
  * 소수 여부 검사 로직
